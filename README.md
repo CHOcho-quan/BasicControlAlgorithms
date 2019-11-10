@@ -17,6 +17,8 @@ My repo of basic control theory algorithms implementation.
   This implementation of fuzzy logic controller is only 1-D and contains fuzzy logci function only the traingular function. It's easy to understand the insight.
   My personal blog about [Fuzzy Logic Controller](http://blog.sina.com.cn/s/blog_18411b89a0102yl16.html)
 
+- Sampling Methods : Implemented sampling methods including Metropolis-Hasting Algorithm, Gibbs Sampling and so on.
+
 - To be continue
 
 ![ControlTheory](./control.jpg)
